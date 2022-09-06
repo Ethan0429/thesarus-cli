@@ -43,7 +43,7 @@ You can run the program with a search term argument - or interactively if there 
 
 Simply run the program `thesaurus.sh` or however you've setup the alias. I'll use `th` in these examples
 
-#### with arguments
+### With arguments
 
 ```
 $ th shell
@@ -51,7 +51,7 @@ Synonyms for SHELL: armor, capsule, case, casing, cocoon, cover, covering, encas
 Antonyms for SHELL: inside, interior
 ```
 
-### interactive
+### Interactive
 
 ```
 $ th
